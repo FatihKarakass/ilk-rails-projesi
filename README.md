@@ -1,31 +1,24 @@
-# İlk Rails Projesi 🚀
+# README
 
-Bu benim ilk Ruby on Rails uygulamam!
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-## 📋 Proje Bilgileri
+Things you may want to cover:
 
-* **Ruby version:** 3.3.0
-* **Rails version:** 8.0.2  
-* **Database:** SQLite3
+* Ruby version
 
-## 🎯 Özellikler
+* System dependencies
 
-* Ana sayfa (MainController)
-* Hakkımızda sayfası (PagesController)
-* Bootstrap ile responsive tasarım
-* Product modeli
+* Configuration
 
-## 🚀 Çalıştırma
+* Database creation
 
-```bash
-git clone https://github.com/FatihKarakass/ilk-rails-projesi.git
-cd ilk-rails-projesi
-bundle install
-rails server
-```
+* Database initialization
 
-**Adres:** http://localhost:3000
+* How to run the test suite
 
-## 👨‍💻 Geliştirici
+* Services (job queues, cache servers, search engines, etc.)
 
-**Ömer Fatih Karakaş** - Rails öğrenme yolculuğu
+* Deployment instructions
+
+* ...
